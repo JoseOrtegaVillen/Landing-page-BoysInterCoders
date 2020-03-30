@@ -1,2 +1,2 @@
 # Landing-page-BoysInterCoders
-Landing Page
+Landing Page created by Jose & Kevin
